@@ -3,7 +3,7 @@ The purpose of this document is to help team members by creating basic guideline
 
 ## Why should you pair review?
 ### Knowledge sharing
-When the reviewer’s skillset is more expansive than the developer's, there's opportunity to offer improvements, guidance and insights. This is an excellent way to boost a skill you may not be as strong in. In another possible case, the developer in need of a review may be more senior and the reviewer junior. This is a great opportunity for one developer to pass on some wisdom to another.
+When the reviewer’s skillset is more expansive than the developer's, there's opportunity to offer improvements, guidance and insights. This is an excellent way to boost a skill you may not be as strong in. In another possible case, the developer in need of a review may be more senior and the reviewer junior. This is a great opportunity for one developer to pass on some wisdom to another. Since the junior might not necessarily be aware of all the intricacies of the code, by asking and trying to understand it, a good review is guaranteed.
 
 ### Team interaction
 A team with good interaction will always be better at completing their objective. By completing tasks via pair programming and pair reviewing, it's possible to be more familiar with the people you work with, getting to know them and creating a fun working environment.
@@ -12,7 +12,7 @@ A team with good interaction will always be better at completing their objective
 Introducing new developers to your team, explaining workflows, processes and the way you’d like to work together can take time. Doing code reviews across the wider team will allow newcomers to meet other developers and also learn about the engineering teams practices without having to go through pages of documentation.
 
 ## In which situation should you not pair review?
-It's not always useful to review in pairs.
+It's not always efficient to review in pairs.
 
 ### WIP
 WIP means Work In Progress. It's a bad idea to call for a pair review when one of the members is in the middle of a task. Doing so will hinder their concentration and the time loss from focusing on something else and coming back to a task makes the process inefficient.
@@ -38,3 +38,4 @@ There's no need to spend two developer's time to review a low complexity task. I
 - Are there relevant links to make the review process easier?
 - Is there a way to verify your changes visually?
 
+<strong>Thanks for reading! If you wish to contribute to this paper, you can contact me anytime!</strong>
